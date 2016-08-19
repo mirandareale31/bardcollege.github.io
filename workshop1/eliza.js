@@ -28,6 +28,8 @@
  */
 
 var rules = {
+  "~*x who is your favorite person~*y": [
+  "miranda is amazing."
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
